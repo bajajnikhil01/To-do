@@ -17,6 +17,8 @@ body {
   /* padding: 20px; */
   padding-left:15px;;
   background-color: #eae5e5;
+  overflow-y:auto;
+  overflow-x:hidden;
 }
 
 #right {
